@@ -2,7 +2,16 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+//Shuffle cards function on each click
+function shuffle(array) {
+
+  
+}
+
 class App extends Component {
+  state = {
+
+  };
   render() {
     return (
       <div className="App">
